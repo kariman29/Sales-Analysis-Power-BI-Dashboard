@@ -144,8 +144,8 @@ Based on the analysis, the following actions were recommended to stakeholders:
 
 If you have questions, feedback, or want to connect:
 
-- **GitHub:** [your-github-username](https://github.com/kariman29)
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/karimanibrahem45/)
+- **GitHub:** [github](https://github.com/kariman29)
+- **LinkedIn:** [linkedin-profile](https://www.linkedin.com/in/karimanibrahem45/)
 
 ---
 
